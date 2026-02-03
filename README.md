@@ -1,11 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anurag Dwivedi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Engineering student | Code. Build. Learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragdwivedi555&label=Profile%20views&color=0e75b6&style=flat" alt="anuragdwivedi555" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragdwivedi555" alt="anuragdwivedi555" /></a> </p>
 
 - 🌱 I’m currently learning **ML, Database**
+
+- 👯 I’m looking to collaborate on **Web3**
+
+- 🤝 I’m looking for help with **Database**
 
 - 💬 Ask me about **python, AI, ML**
 
@@ -27,4 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragdwivedi555&show_icons=true&locale=en&layout=compact" alt="anuragdwivedi555" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragdwivedi555&show_icons=true&locale=en" alt="anuragdwivedi555" /></p>
-
